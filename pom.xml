@@ -15,6 +15,9 @@
         <module>spring-cloud-eureka-feign-client-demo</module>
         <module>spring-cloud-eureka-feign-consumer-demo</module>
         <module>spring-cloud-eureka-feign-api-demo</module>
+        <module>spring-cloud-eureka-client-feign-client-demo</module>
+        <module>spring-cloud-eureka-client-feign-api-demo</module>
+        <module>spring-cloud-eureka-client-feign-consumer-demo</module>
     </modules>
 
     <properties>
