@@ -9,7 +9,12 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>spring-cloud-eureka-client-demo</module>
         <module>spring-cloud-eureka-consumer-demo</module>
+        <module>spring-cloud-eureka-server-demo</module>
+        <module>spring-cloud-eureka-feign-client-demo</module>
+        <module>spring-cloud-eureka-feign-consumer-demo</module>
+        <module>spring-cloud-eureka-feign-api-demo</module>
     </modules>
 
     <properties>
