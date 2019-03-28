@@ -29,7 +29,7 @@ public class EurekaConsumerController {
     public String demo(String arg) {
         ServiceInstance instance = client.choose("eureka-client");
         Map<String, Object> params = new HashMap<>();
-        params.put("arg", "params-" + arg);
+        params.put("arg", " consumer: " + arg);
         return template.getForObject(instance.getUri() + "/demo?arg={arg}", String.class, params);
     }
 }

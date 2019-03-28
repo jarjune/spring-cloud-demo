@@ -8,6 +8,6 @@ public class EurekaClientController {
 
     @RequestMapping("demo")
     public String demo(String arg) {
-        return " client: " + arg;
+        return "eureka: client: " + arg;
     }
 }
