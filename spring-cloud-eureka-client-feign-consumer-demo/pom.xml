@@ -34,12 +34,6 @@
         </dependency>
         <dependency>
             <groupId>com.jarjune</groupId>
-            <artifactId>spring-cloud-eureka-feign-api-demo</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.jarjune</groupId>
             <artifactId>spring-cloud-eureka-client-feign-api-demo</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>compile</scope>
