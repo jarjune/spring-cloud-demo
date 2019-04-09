@@ -18,3 +18,14 @@
 * `spring-cloud-eureka-feign-consumer-demo`【启动服务】
 
 ## 案例4
+* `spring-cloud-config-server`【启动服务】
+* `spring-cloud-config-client`【启动服务】
+
+## 案例5
+* `spring-cloud-zuul`【启动服务】
+
+## 案例6
+* `spring-cloud-eureka-server-demo`【启动服务】
+* `spring-cloud-eureka-client-demo`【启动服务】
+* `spring-cloud-eureka-zuul`【启动服务】
+

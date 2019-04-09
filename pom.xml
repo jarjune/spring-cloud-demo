@@ -20,6 +20,8 @@
         <module>spring-cloud-eureka-client-feign-consumer-demo</module>
         <module>spring-cloud-config-server</module>
         <module>spring-cloud-config-client</module>
+        <module>spring-cloud-zuul</module>
+        <module>spring-cloud-eureka-zuul</module>
     </modules>
 
     <properties>

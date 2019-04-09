@@ -1,0 +1,10 @@
+server:
+  port: 19003
+spring:
+  application:
+    name: zuul
+zuul:
+  routes:
+    blog:
+      url: https://blog.jarjune.com
+      path: /blog/**

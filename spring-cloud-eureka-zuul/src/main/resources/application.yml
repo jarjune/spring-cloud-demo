@@ -1,0 +1,14 @@
+server:
+  port: 19004
+spring:
+  application:
+    name: eureka-zuul
+zuul:
+  routes:
+    blog:
+      path: /blog/**
+      serviceId: eureka-client
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9011/eureka/
