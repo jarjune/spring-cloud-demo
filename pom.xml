@@ -18,6 +18,8 @@
         <module>spring-cloud-eureka-client-feign-client-demo</module>
         <module>spring-cloud-eureka-client-feign-api-demo</module>
         <module>spring-cloud-eureka-client-feign-consumer-demo</module>
+        <module>spring-cloud-config-server</module>
+        <module>spring-cloud-config-client</module>
     </modules>
 
     <properties>
