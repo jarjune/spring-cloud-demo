@@ -29,3 +29,9 @@
 * `spring-cloud-eureka-client-demo`【启动服务】
 * `spring-cloud-eureka-zuul`【启动服务】
 
+## 案例7
+* `spring-cloud-eureka-server-demo`【启动服务】
+* `spring-cloud-eureka-client-demo`【启动服务】
+* `spring-cloud-eureka-feign-hystrix-api`
+* `spring-cloud-eureka-feign-hystrix-consumer`【启动服务】
+
