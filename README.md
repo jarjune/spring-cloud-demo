@@ -1,5 +1,12 @@
 # spring-cloud-demo
 
+gitee:
+[![star](https://gitee.com/jarjune/spring-cloud-demo/badge/star.svg?theme=gray)](https://gitee.com/jarjune/spring-cloud-demo/stargazers)
+[![fork](https://gitee.com/jarjune/spring-cloud-demo/badge/fork.svg?theme=gray)](https://gitee.com/jarjune/spring-cloud-demo/members)
+
+github:
+[![star](https://img.shields.io/github/stars/jarjune/spring-cloud-demo.svg?style=social&label=Star)](https://github.com/jarjune/spring-cloud-demo/stargazers)
+[![star](https://img.shields.io/github/forks/jarjune/spring-cloud-demo.svg?style=social&label=Fork)](https://github.com/jarjune/spring-cloud-demo/network/members)
 ## 案例1
 * `spring-cloud-eureka-server-demo`【启动服务】
 * `spring-cloud-eureka-client-demo`【启动服务】
